@@ -1,0 +1,25 @@
+{
+  "recipes": [
+    {
+      "id": "123",
+      "author": "John",
+      "title": "Pizza",
+      "content": "Assdsda ads asd as as asd asd asd asd asd sa",
+      "dateOfCreate": "2019.01.03"
+    },
+    {
+      "id": "1233",
+      "author": "John 2",
+      "title": "Pizza 2",
+      "content": "Assdsda ads asd as as asd asd asd asd asd sa",
+      "dateOfCreate": "2019.01.03"
+    },
+    {
+      "id": "12321",
+      "author": "John 3",
+      "title": "Pizza 3",
+      "content": "Assds da ads asd as as asd asd asd asd asd sa",
+      "dateOfCreate": "2020.01.03"
+    }
+  ]
+}
